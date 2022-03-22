@@ -29,7 +29,7 @@
 
 
 ## Screenshot
-![Website screenshot](../images/screenshot.png)
+![Website screenshot]("../assets/images/screenshot.png")
 
 
 ## Setup
