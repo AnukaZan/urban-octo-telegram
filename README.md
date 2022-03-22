@@ -29,7 +29,7 @@
 
 
 ## Screenshot
-![Website screenshot](../assets/images/screenshot.png?raw=true)
+![Website screenshot](https://raw.github.com/{anukazan}/{urban-octo-telegram}/{main}/{develop}/{../index/screenshot.png})
 
 
 ## Setup
