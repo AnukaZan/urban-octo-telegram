@@ -29,7 +29,7 @@
 
 
 ## Screenshot
-![Website screenshot](/assets/images/screenshot.png?raw=true)
+![Website screenshot](../assets/images/screenshot.png?raw=true)
 
 
 ## Setup
