@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 > Refracturing an existing HTML and CSS file to be more accessible and clean without changing the website design.
-> Live demo [_here_](https://anukazan.github.io/urban-octo-telegram/). 
+> Live demo [_here_](https://anukazan.github.io/urban-octo-telegram/Develop/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -29,7 +29,7 @@
 
 
 ## Screenshot
-![Website screenshot](https://raw.github.com/{anukazan}/{urban-octo-telegram}/{main}/{develop}/{../index/screenshot.png})
+![Website screenshot](https://anukazan.github.io/urban-octo-telegram/Develop/assets/images/screenshot.png?raw=true)
 
 
 ## Setup
